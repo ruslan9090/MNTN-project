@@ -1,5 +1,5 @@
 # MNTN-project
 
 -website with adapted layout
-
--web sitesi
+<hr>
+-сайт с адаптивной версткой
